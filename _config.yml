@@ -1,4 +1,6 @@
 title: Annabelle Laureen
+default: {
+    title_color: "ffc0cb"
 logo: "images/Untitled_Artwork.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
