@@ -24,7 +24,7 @@
 
 ---
 
-### Category Name 2
+### Motion-Illustrations
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
