@@ -2,7 +2,7 @@
 
 ---
 
-### Illustrations   Motion-Illustrations
+### Illustrations
 
 <img src="images/IMG_0219.jpg"/>
 
