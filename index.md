@@ -33,11 +33,22 @@
   <body>
     
     <video width="600" controls>
-      <video src="images/January 13, 2021.mp4" type"video/mp4">
+      <source src="images/January 13, 2021.mp4" type"video/mp4">
     </video>
 
   </body>
 
 ---
 
+ <head>
+    <title>Video</title>
+  </head>
+  
+  <body>
+  
+  <video controls="controls">
+    <source src="images/January 13, 2021.mp4" video=web/mp4>
+  </video>
+
+  </body>
 
