@@ -26,10 +26,21 @@
 
 ### Motion-Illustrations
 
-<video width="800" controls>
-  <source src="images/final.project.annabelle.davis.mp4" type"video/mp4">
-</video>
+<html>
+  <head>
+    <title>Video</title>
+  </head>
+  
+  <body>
+    
+    <video width="800" controls>
+      <source src="images/final.project.annabelle.davis.mp4" type"video/mp4">
+    </video>
 
+  </body>
+  
+ <html>
+   
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
