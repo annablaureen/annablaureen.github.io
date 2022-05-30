@@ -46,7 +46,7 @@
   
   <body>
   
-  <video width+"600" controls>
+  <video width="600" controls>
     <source src="images/January 13, 2021.mp4" video=web/mp4>
   </video>
 
