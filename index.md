@@ -34,9 +34,13 @@
   <body>
     
     <video width="600" controls>
-      <source src="images/final.project.annabelle.davis.mp4" type"video/mp4">
+      <video src="images/final.project.annabelle.davis.mp4" type"video/mp4">
     </video>
 
   </body>
   
  <html>
+   
+---
+
+
