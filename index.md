@@ -26,6 +26,8 @@
 
 ### Motion-Illustrations
 
+<source src="images/final.project.annabelle.davis.mp4" type"video/mp4">
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
