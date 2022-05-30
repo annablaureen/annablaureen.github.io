@@ -26,7 +26,6 @@
 
 ### Motion-Illustrations
 
-<html>
   <head>
     <title>Video</title>
   </head>
@@ -39,7 +38,6 @@
 
   </body>
   
- <html>
    
 ---
 
