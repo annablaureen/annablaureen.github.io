@@ -2,7 +2,7 @@
 
 ---
 
-### Illustrations. href="https://annablaureen.github.io/">Motion-Illustrations</a></h3>
+### Illustrations   Motion-Illustrations
 
 <img src="images/IMG_0219.jpg"/>
 
