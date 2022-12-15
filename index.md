@@ -1,5 +1,7 @@
 ### Illustrations
 
+<img src="images/IMG_3271.jpg"/>
+
 <img src="images/IMG_0219.jpg"/>
 
 <img src="images/IMG_0217.jpg"/>
