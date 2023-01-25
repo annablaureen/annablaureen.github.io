@@ -22,4 +22,4 @@
 
 ### Design
 
-<img src="images/IMG_0261.jpg"/>
+<img src="images/Rocket Logo.jpg"/>
