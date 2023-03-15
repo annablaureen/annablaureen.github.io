@@ -4,8 +4,6 @@
 
 <img src="images/Lunar rabbit.jpeg"/>
 
-<img src="images/IMG_0217.jpg"/>
-
 <img src="images/IMG_0218.jpg"/>
 
 <img src="images/IMG_0221.jpg"/>
